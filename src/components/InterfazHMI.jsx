@@ -1,5 +1,6 @@
 import React, { useContext } from "react";
 import { MQTTContext } from "./MQTTCliente"; // Importar el contexto global de MQTT
+import '../styles/styles.css'; // Estilos globales
 
 const HMI = () => {
   const { statuses } = useContext(MQTTContext); // Extraer los estados de los tópicos desde el contexto
