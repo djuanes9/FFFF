@@ -1,4 +1,5 @@
 import React from "react";
+import '../styles/styles.css'; // Estilos globales
 const imgEPN = "https://daci.epn.edu.ec/images/inicio/logo_home_w.png";
 
 function Heading() {
