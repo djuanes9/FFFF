@@ -1,5 +1,6 @@
 import React, { createContext, useState, useEffect } from "react";
 import mqtt from "mqtt";
+import '../styles/styles.css'; // Estilos globales
 
 // Crear el contexto para manejar MQTT globalmente
 export const MQTTContext = createContext();
