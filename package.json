@@ -13,7 +13,8 @@
     "react-dom": "18.2.0",
     "chart.js": "4.4.4",
     "mqtt": "4.3.7",
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "url": "0.11.4"
   },
   "devDependencies": {
     "@types/react": "18.2.38",
