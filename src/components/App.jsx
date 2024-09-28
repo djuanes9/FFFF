@@ -4,6 +4,7 @@ import { MQTTProvider } from "./MQTTCliente"; // Asegúrate de que MQTTCliente e
 import Footer from "./Footer";
 import PanelGraficas from "./PanelGraficas";
 import InterfazHMI from "./InterfazHMI";
+import '../styles/styles.css'; // Estilos globales
 
 function App() {
   return (
